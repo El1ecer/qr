@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar Código') {
             steps {
-                git branch: 'master', url: 'https://github.com/El1ecer/cafe.git'
+                git branch: 'main', url: 'https://github.com/El1ecer/qr.git'
             }
         }
 
