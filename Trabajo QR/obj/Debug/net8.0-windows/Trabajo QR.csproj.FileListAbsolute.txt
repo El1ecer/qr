@@ -1,0 +1,159 @@
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.exe
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.deps.json
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.runtimeconfig.json
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.pdb
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\zxing.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.AssemblyReference.cache
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Form1.resources
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ProductosVista.resources
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.GenerateResource.cache
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.AssemblyInfoInputs.cache
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.AssemblyInfo.cs
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.CoreCompileInputs.cache
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.CopyComplete
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\refint\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.pdb
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.genruntimeconfig.cache
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\ref\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaProdVista.resources
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.VistaCliente.resources
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaCliVista.resources
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ProdVentas.resources
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Compra.resources
+E:\Universidad\Cuarto curso\GESTION\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaVentas.resources
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.exe
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.deps.json
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.runtimeconfig.json
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.pdb
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\zxing.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.AssemblyReference.cache
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Compra.resources
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Form1.resources
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaCliVista.resources
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaProdVista.resources
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaVentas.resources
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ProductosVista.resources
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ProdVentas.resources
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.VistaCliente.resources
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.GenerateResource.cache
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.AssemblyInfoInputs.cache
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.AssemblyInfo.cs
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.CopyComplete
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\refint\Trabajo QR.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.pdb
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.genruntimeconfig.cache
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\ref\Trabajo QR.dll
+C:\Users\Antho\Documents\Universidad\Cuarto Semestre\Gestión de la Informacion\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Properties.Resources.resources
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.exe
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.deps.json
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.runtimeconfig.json
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.pdb
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\zxing.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.AssemblyReference.cache
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Compra.resources
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Form1.resources
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaCliVista.resources
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaProdVista.resources
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaVentas.resources
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ProductosVista.resources
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ProdVentas.resources
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Properties.Resources.resources
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.VistaCliente.resources
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.GenerateResource.cache
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.AssemblyInfoInputs.cache
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.AssemblyInfo.cs
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.CoreCompileInputs.cache
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.CopyComplete
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\refint\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.pdb
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.genruntimeconfig.cache
+E:\Universidad\Cuarto curso\GESTION\Nueva carpeta\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\ref\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.exe
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.deps.json
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.runtimeconfig.json
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Trabajo QR.pdb
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\zxing.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.AssemblyReference.cache
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Compra.resources
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Form1.resources
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaCliVista.resources
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaProdVista.resources
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ListaVentas.resources
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ProductosVista.resources
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.ProdVentas.resources
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.Properties.Resources.resources
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo_QR.VistaCliente.resources
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.GenerateResource.cache
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.AssemblyInfoInputs.cache
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.AssemblyInfo.cs
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.CoreCompileInputs.cache
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.csproj.CopyComplete
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\refint\Trabajo QR.dll
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.pdb
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\Trabajo QR.genruntimeconfig.cache
+E:\Universidad\Cuarto curso\GESTION\FINAL\Trabajo QR\Trabajo QR\obj\Debug\net8.0-windows\ref\Trabajo QR.dll
